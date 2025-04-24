@@ -44,8 +44,6 @@ sen (HDS) (2023)
 
 </div>
 
-## II
-
 ### Steckbrief
 
 _Alle im Steckbrief enthaltenen Informationen sind sowohl für Teilnehmende als auch für Trainer:innen rele-
@@ -78,7 +76,7 @@ Nach Abschluss des Workshops können die Teilnehmer*innen ...
 - fremde OER mit verschiedenen Tools verändern/remixen
 - (neu) erstellte OER unter der passenden Lizenz zur Verfügung stellen
 
-### Zuordnung zu Handlungsfeldern^1
+### Zuordnung zu Handlungsfeldern
 
 Die Veranstaltung wurde durch die Geschäftsstelle der Hochschuldidaktik Sachsen (HDS) den Hand-
 lungsfeldern Methoden, Medien & Digitales (7AE) und Lehr-/Lernplanung & Curriculumsentwick-
@@ -88,7 +86,6 @@ lung (3AE) zugeordnet.
 Handlungsfelder. Weitere Informationen finden Sie hier.
 
 
-## III
 
 ### Zielgruppe
 
@@ -115,7 +112,7 @@ Der Digital Workspace wurde als Online-Veranstaltung konzeptioniert.
 
 ### Umfang und Ablauf des Workspace (AE)
 
-Der zweitägige Digital Workspace hat einen Gesamtumfang von 10 AE^2 , die vollständig synchron
+Der zweitägige Digital Workspace hat einen Gesamtumfang von 10 AE , die vollständig synchron
 konzipiert sind.
 
 Tag 1 (5 AE):
@@ -148,8 +145,6 @@ Weitere Informationen zur Barrierefreiheit befinden sich ausführlich im Access 
 (^2) Arbeitseinheiten (1 AE = 45 min).
 
 
-##### IV
-
 ## Inhaltsübersicht
 
 Einleitung **Vorbereitung ZIM-Plan** (^) möglichkeitenErweiterungs-
@@ -159,8 +154,6 @@ Access-Statement
 Methoden
 Materialien
 
-
-## V
 
 ## Inhaltsverzeichnis
 
@@ -175,7 +168,6 @@ Begleitmaterialien .............................................................
 Abbildungsverzeichnis ..................................................................................................................... VIII
 
 
-##### VI
 
 - 1. Einleitung Tabellenverzeichnis VIII
 - 2. Organisatorische Hinweise
@@ -223,7 +215,6 @@ Abbildungsverzeichnis ..........................................................
    - Anhang 6: Linkliste OER-Tools........................................................................................................
 
 
-##### VII
 
 ## Begleitmaterialien
 
@@ -238,7 +229,6 @@ o Vorbereitungsvideo inkl. Folien: „OER – Was bringt mir das? Und muss ich d
 machen?“ von Jana Riedel
 ```
 
-##### VIII
 
 ## Abbildungsverzeichnis
 
@@ -250,8 +240,6 @@ Tabelle 1: Ablaufplan zur Vorbereitung des Digital Workspace ...................
 Tabelle 2: Ablaufplan der synchronen Veranstaltung an Tag 1 ..... **Fehler! Textmarke nicht definiert.**
 Tabelle 3: Ablaufplan zur synchronen Veranstaltung an Tag 2 ..... **Fehler! Textmarke nicht definiert.**
 
-
-##### 1
 
 ## 1. Einleitung
 
@@ -302,8 +290,6 @@ _Dominic Dives und Jana Riedel für die Mitarbeiterinnen und Mitarbeiter des Pro
 der Hochschulbildung in Sachsen“_
 
 
-##### 2
-
 ## 2. Organisatorische Hinweise
 
 ```
@@ -344,7 +330,6 @@ Die Angebote wurden wie folgt strukturiert:
 Abbildung 1 : Kursstruktur und -bausteine im LMS Kurs
 ```
 
-##### 3
 
 #### 2.1.2 Meetingraum Videokonferenztool einrichten
 
@@ -384,7 +369,6 @@ Themenspezifische Kenntnisse und Kompetenzen
 ▪ Ggf. Erfahrung mit eigenen als OER veröffentlichten Materialien
 ```
 
-##### 4
 
 ## 3. Überblick über den Digital Workspace
 
@@ -417,7 +401,6 @@ sind. Insofern ist OER nicht nur als Mittel zur Nutzung und Erstellung von anspr
 terialien zu verstehen, sondern auch als Haltung für ein Miteinander in der Lehre.
 
 
-##### 5
 
 ### 3.2 Detaillierter Ablaufplan (ZIM)
 
@@ -470,8 +453,6 @@ board
 ▪ Video OER Kom-
 pakt (YouTube)
 ```
-
-##### 6
 
 ##### DAUER ZIEL & ZWECK INHALT METHODEN MATERIAL & TOOLS ERGÄNZENDE HIN-
 
@@ -570,7 +551,6 @@ Rechtliche Fragen im
 Wiki sammeln.
 ```
 
-##### 7
 
 ##### DAUER ZIEL & ZWECK INHALT METHODEN MATERIAL & TOOLS ERGÄNZENDE HIN-
 
@@ -655,7 +635,6 @@ Emoji-Quiz finden
 sich im Anhang.
 ```
 
-##### 8
 
 ##### DAUER ZIEL & ZWECK INHALT METHODEN MATERIAL & TOOLS ERGÄNZENDE HIN-
 
@@ -748,7 +727,6 @@ Wiki dokumentie-
 ren.
 ```
 
-##### 9
 
 ##### DAUER ZIEL & ZWECK INHALT METHODEN MATERIAL & TOOLS ERGÄNZENDE HIN-
 
@@ -777,7 +755,6 @@ folien 2 0 - 23
 _Tabelle 3 : Ablaufplan zur synchronen Veranstaltung an Tag 2_
 
 
-##### 10
 
 ## 4. Thematische Schwerpunkte
 
@@ -819,8 +796,6 @@ den. Es muss darauf hingewiesen werden, dass es sich hierbei nicht um eine Recht
 delt, sondern um allgemeine Informationen und eine Einführung in das Rechtsgebiet. Es ist hilf-
 reich, hierbei die Expertise einer/eines Jurist:in in Form eines Gastvortrags einzubeziehen.
 
-
-##### 11
 
 ## 5. Methoden & Aufgaben
 
@@ -880,8 +855,6 @@ Steckbrief im vorliegenden Workspace:
 ...)
 ```
 
-##### 12
-
 ```
 ▪ Wonach ich suche ... (Welche OER möchten Sie nutzen: Art, Thema, Umfang)
 ▪ Was ich schon gefunden habe ...
@@ -929,7 +902,6 @@ Thema oder einer Fragestellung zu erhalten. Alle Teilnehmenden werden aufgeforde
 ment in einem (kurzen) Satz zu formulieren. Die Methode verläuft sehr aktiv und ermöglicht es,
 ```
 
-##### 13
 
 unterschiedliche Perspektiven einzufangen und den Dialog anzuregen. Die Moderation sollte da-
 rauf achten, dass alle Teilnehmenden mit einer kurzen Aussage zu Wort kommen, aber (noch)
@@ -937,7 +909,6 @@ keine Diskussion stattfindet. Folgende Frage zum Feedback wird gestellt: Was neh
 Workspace mit?
 
 
-##### 14
 
 ## 6. Ideen für Optimierungs- und Erweiterungsmöglichkeiten
 
@@ -952,7 +923,6 @@ ausforderung. Alternativ zu einer Protokollierung von Antworten wäre die Bereit
 zu FAQs/Foren für Rechtsfragen denkbar (z. B. https://irights.info/, https://oer-faq.de/).
 
 
-##### 15
 
 ## 7. Access Statement
 
@@ -1008,7 +978,6 @@ Nutzung von Audio, Video und Breakout-Räumen in BigBlueButton erforderlich ist.
 mevoraussetzungen statuiert werden.
 
 
-##### 16
 
 nutzen wir asynchrone, schriftliche Austauschformate bspw. über das Forum oder Wiki in unserem
 OPAL-Kurs. Hier ergeben sich Barrieren in Bezug auf die technische Infrastruktur (siehe unten).
@@ -1049,7 +1018,6 @@ eine Vorbereitung zu ermöglichen.
 (^4) Alle Dokumente lassen sich auch mit nicht-proprietärer Software bearbeiten.
 
 
-##### 17
 
 ### 7.7 Hinweise zur genutzten Infrastruktur
 
@@ -1098,7 +1066,6 @@ Zur Barrierefreiheitserklärung von Big Blue Button
 empfangene Datenrate zu reduzieren. Dies kann jedoch die Beteiligungsmöglichkeiten einschränken.
 
 
-##### 18
 
 ## Anhang
 
@@ -1115,7 +1082,6 @@ Anhang 5: Lösungen zum Emoji-Quiz
 Anhang 6: Linkliste OER-Tools
 
 
-##### 19
 
 ### Anhang 1: Willkommens-E-Mail mit Vorbereitungsaufgabe
 
