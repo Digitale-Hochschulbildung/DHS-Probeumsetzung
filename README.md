@@ -10,16 +10,11 @@ Abbildung: https://selbstgesteuertes-lernen.de/
 
 ![Logo HDS](media/Logo_HDS.png) 
 ![Logo BPS](media/Logo_BPS.png)
-![Logo_Sachsen](media/Logo_F
-Diese Maßnahme wird mitfinanziert durch
-Steuermittel auf der Grundlage des von den
-Abgeordneten des Sächsischen Landtags
-beschlossenen Haushalts.
+![Logo_Sachsen](media/Logo_F%C3%B6rderhinweis.png) Diese Maßnahme wird mitfinanziert durch Steuermittel auf der Grundlage des von den Abgeordneten des Sächsischen Landtags beschlossenen Haushalts.
 
-Stand: 05. 12.
+Stand: 05.12.2023
 
 Digitalisierung der Hochschulbildung in Sachsen (DHS)
-
 Projektzeitraum: 2019 – 2024
 
 **Konzeptionelle Arbeit/Redaktion**
