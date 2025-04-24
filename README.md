@@ -86,7 +86,7 @@ Nach Abschluss des Workshops können die Teilnehmer*innen ...
 - fremde OER mit verschiedenen Tools verändern/remixen
 - (neu) erstellte OER unter der passenden Lizenz zur Verfügung stellen
 
-### Zuordnung zu Handlungsfeldern^1
+### Zuordnung zu Handlungsfeldern
 
 Die Veranstaltung wurde durch die Geschäftsstelle der Hochschuldidaktik Sachsen (HDS) den Hand-
 lungsfeldern Methoden, Medien & Digitales (7AE) und Lehr-/Lernplanung & Curriculumsentwick-
@@ -123,7 +123,7 @@ Der Digital Workspace wurde als Online-Veranstaltung konzeptioniert.
 
 ### Umfang und Ablauf des Workspace (AE)
 
-Der zweitägige Digital Workspace hat einen Gesamtumfang von 10 AE^2 , die vollständig synchron
+Der zweitägige Digital Workspace hat einen Gesamtumfang von 10 AE , die vollständig synchron
 konzipiert sind.
 
 Tag 1 (5 AE):
