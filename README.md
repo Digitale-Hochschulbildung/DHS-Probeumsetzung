@@ -1,24 +1,20 @@
-# Didaktische Handreichung:
+# Didaktische Handreichung: Bildung für alle! Open Educational Resources für die eigene Lehre finden, bearbeiten und teilen
 
-![Abbildung OER]([media/Abbildung_OER_Handreichung_CC-BY-SA.jpg])
+![Abbildung OER](media/Abbildung_OER_Handreichung_CC-BY-SA.jpg)
 
-<div>
-
-Bildung für alle! Open Educational Resources für die eigene Lehre finden, bearbeiten und teilen
-
-```
 Abbildung: https://selbstgesteuertes-lernen.de/
-```
-## Empfehlungen zur Durchführung eines Digital Workspaces
+
+**Empfehlungen zur Durchführung eines Digital Workspaces**
 
 **Digitalisierung der Hochschulbildung in Sachsen (DHS)**
 
-```
+![Logo HDS](media/Logo_HDS.png) 
+![Logo BPS](media/Logo_BPS.png)
+![Logo_Sachsen](media/Logo_F
 Diese Maßnahme wird mitfinanziert durch
 Steuermittel auf der Grundlage des von den
 Abgeordneten des Sächsischen Landtags
 beschlossenen Haushalts.
-```
 
 Stand: 05. 12.
 
