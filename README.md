@@ -36,6 +36,7 @@ programm@hd-sachsen.de
 Titelgrafik von Projekt Weiterbildung selbstorganisiert. Lizenziert unter einer Creative Commons Namens-
 nennung – Weitergabe unter gleichen Bedingungen 4.0 International Lizenz. Anpassung: Farbfilter.
 
+![Logo_CC-BY-SA](media/Logo_CC-BY-SA.png)
 Diese „Didaktische Handreichung: Bildung für alle! Open Educational Resources für die eigene Lehre finden,
 bearbeiten und teilen“ steht unter einer CC BY SA 4.0-Lizenz. Der Urheber soll wie folgt genannt werden:
 Dives, Dominic & Riedel, Jana für Digitalisierung der Hochschulbildung in Sachsen | Hochschuldidaktik Sach-
