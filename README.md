@@ -1,6 +1,6 @@
 # Didaktische Handreichung:
 
-![demo bild](media/demo.png "dies ist der titel")
+![Abbildung OER](media/demo.png "")
 
 <div>
 
