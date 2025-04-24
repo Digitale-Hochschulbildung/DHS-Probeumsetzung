@@ -1,6 +1,6 @@
 # Didaktische Handreichung:
 
-![Abbildung OER](media/demo.png "")
+![Abbildung OER]([media/Abbildung_OER_Handreichung_CC-BY-SA.jpg])
 
 <div>
 
