@@ -33,37 +33,22 @@ Marschnerstraße 31
 0341/97- 30080
 programm@hd-sachsen.de
 
-Titelgrafik von Projekt Weiterbildung selbstorganisiert. Lizenziert unter einer Creative Commons Namens-
-nennung – Weitergabe unter gleichen Bedingungen 4.0 International Lizenz. Anpassung: Farbfilter.
+Titelgrafik von Projekt Weiterbildung selbstorganisiert. Lizenziert unter einer Creative Commons Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International Lizenz. Anpassung: Farbfilter.
 
 ![Logo_CC-BY-SA](media/Logo_CC-BY-SA.png)
-Diese „Didaktische Handreichung: Bildung für alle! Open Educational Resources für die eigene Lehre finden,
-bearbeiten und teilen“ steht unter einer CC BY SA 4.0-Lizenz. Der Urheber soll wie folgt genannt werden:
-Dives, Dominic & Riedel, Jana für Digitalisierung der Hochschulbildung in Sachsen | Hochschuldidaktik Sach-
-sen (HDS) (2023)
+Diese „Didaktische Handreichung: Bildung für alle! Open Educational Resources für die eigene Lehre finden, bearbeiten und teilen“ steht unter einer CC BY SA 4.0-Lizenz. Der Urheber soll wie folgt genannt werden:
+Dives, Dominic & Riedel, Jana für Digitalisierung der Hochschulbildung in Sachsen | Hochschuldidaktik Sachsen (HDS) (2023)
 
 </div>
 
 ### Steckbrief
 
-_Alle im Steckbrief enthaltenen Informationen sind sowohl für Teilnehmende als auch für Trainer:innen rele-
-vant. Kurzbeschreibung und Lernziele sind deshalb für die direkte Teilnehmendenansprache formuliert, sodass
+_Alle im Steckbrief enthaltenen Informationen sind sowohl für Teilnehmende als auch für Trainer:innen relevant. Kurzbeschreibung und Lernziele sind deshalb für die direkte Teilnehmendenansprache formuliert, sodass
 sie für die Bewerbung des Digital Workspace unverändert übernommen werden können._
 
 ### Kurzbeschreibung
 
-Open Educational Resources - Offene Bildungsressourcen - sind frei zugängliche Materialien, die
-bearbeitet, wiederverwendet und geteilt werden dürfen. Damit sollen Bildungsmaterialien besser
-zugänglich gemacht und ein Austausch unter Lehrenden ermöglicht werden. Verbunden mit dem
-Wunsch nach Zeitersparnis und einfacher Materialverwaltung suchen Lehrende nach geeigneten
-Materialien für ihre Veranstaltungen. Aber wo findet man diese und was muss dabei beachtet wer-
-den? Darüber hinaus können Lehrende auch selbst OER-Materialien erstellen und veröffentlichen,
-weil sie damit einen freien Zugang für viele Personen ermöglichen und zu einer Verbesserung der
-Chancengleichheit im Bildungsbereich beitragen. Welche Tools können sie zur Bearbeitung von
-OER-Materialien verwenden und was muss bei der Veröffentlichung eigener OER-Materialien be-
-achtet werden? Der Digital Workspace widmet sich an zwei Tagen diesen beiden Perspektiven und
-begleitet die Teilnehmenden, bei der Entwicklung eigener Recherche- und Veröffentlichung von
-OER.
+Open Educational Resources - Offene Bildungsressourcen - sind frei zugängliche Materialien, die bearbeitet, wiederverwendet und geteilt werden dürfen. Damit sollen Bildungsmaterialien besser zugänglich gemacht und ein Austausch unter Lehrenden ermöglicht werden. Verbunden mit dem Wunsch nach Zeitersparnis und einfacher Materialverwaltung suchen Lehrende nach geeigneten Materialien für ihre Veranstaltungen. Aber wo findet man diese und was muss dabei beachtet werden? Darüber hinaus können Lehrende auch selbst OER-Materialien erstellen und veröffentlichen, weil sie damit einen freien Zugang für viele Personen ermöglichen und zu einer Verbesserung der Chancengleichheit im Bildungsbereich beitragen. Welche Tools können sie zur Bearbeitung von OER-Materialien verwenden und was muss bei der Veröffentlichung eigener OER-Materialien beachtet werden? Der Digital Workspace widmet sich an zwei Tagen diesen beiden Perspektiven und begleitet die Teilnehmenden, bei der Entwicklung eigener Recherche- und Veröffentlichung von OER.
 
 ### Lernziele
 
@@ -78,29 +63,25 @@ Nach Abschluss des Workshops können die Teilnehmer*innen ...
 
 ### Zuordnung zu Handlungsfeldern
 
-Die Veranstaltung wurde durch die Geschäftsstelle der Hochschuldidaktik Sachsen (HDS) den Hand-
-lungsfeldern Methoden, Medien & Digitales (7AE) und Lehr-/Lernplanung & Curriculumsentwick-
-lung (3AE) zugeordnet.
+Die Veranstaltung wurde durch die Geschäftsstelle der Hochschuldidaktik Sachsen (HDS) den Handlungsfeldern Methoden, Medien & Digitales (7AE) und Lehr-/Lernplanung & Curriculumsentwicklung (3AE) zugeordnet.
 
-(^1) Die Einordnung orientiert sich an der in der Zertifikatsordnung der Hochschuldidaktik Sachsen (HDS) vorgegebenen
-Handlungsfelder. Weitere Informationen finden Sie hier.
+(^1) Die Einordnung orientiert sich an der in der Zertifikatsordnung der Hochschuldidaktik Sachsen (HDS) vorgegebenen Handlungsfelder. Weitere Informationen finden Sie hier.
 
 
 
 ### Zielgruppe
 
-Statusgruppen
+#### Statusgruppen
 
 Der Digital Workspace eignet sich für alle Hochschullehrenden (ohne weitere Einschränkungen).
 
-Fächergruppen
+#### Fächergruppen
 
 Es handelt sich um ein fächerübergreifendes Angebot.
 
-Level und notwendiges Vorwissen der Teilnehmenden
+#### Level und notwendiges Vorwissen der Teilnehmenden
 
-Der Digital Workspace eignet sich primär für Anfänger:innen. Die Teilnehmenden benötigen keine
-besonderen Vorkenntnisse.
+Der Digital Workspace eignet sich primär für Anfänger:innen. Die Teilnehmenden benötigen keine besonderen Vorkenntnisse.
 
 ### Empfohlene Teilnehmendenzahl
 
