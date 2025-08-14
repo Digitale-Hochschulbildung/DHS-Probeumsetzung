@@ -1,6 +1,9 @@
 <!--
 language: de
 edit:     true
+logo:     img/main.png
+icon:     img/logo-hds.png
+comment:  Dieses Dokument bietet eine praxisorientierte Handreichung zur Nutzung, Bearbeitung und Weitergabe von Open Educational Resources (OER) in der Hochschullehre. Es vermittelt grundlegende Informationen zu OER, rechtlichen Rahmenbedingungen (insbesondere Creative-Commons-Lizenzen), Recherche- und Bearbeitungsstrategien sowie didaktische Methoden für die Integration freier Bildungsmaterialien. Ziel ist es, Lehrende zu befähigen, OER sicher zu finden, anzupassen und zu teilen, um offene Bildung und Chancengleichheit zu fördern.
 -->
 
 # Didaktische Handreichung: Bildung für alle!
