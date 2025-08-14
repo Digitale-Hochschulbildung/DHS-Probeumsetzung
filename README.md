@@ -1,5 +1,6 @@
 <!--
 language: de
+edit:     true
 -->
 
 # Didaktische Handreichung: Bildung für alle!
