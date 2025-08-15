@@ -1,5 +1,4 @@
-# File: .github/workflows/generate-liascript-outputs.yml
-name: Generate LiaScript Outputs
+name: Generate Exports
 
 # Trigger: Run the workflow when changes are pushed to the 'main' branch.
 on:
@@ -35,7 +34,7 @@ jobs:
       # Step 4: Generate a PDF from README.md.
       - name: Generate PDF
         run: |
-          liaex -i project/README.md --format pdf --output Documentation --pdf-timeout 50000
+          liaex -i project/README.md --format pdf --output Handreichung --pdf-timeout 50000
 
       # Step 5: Generate a SCORM package.
       - name: Generate SCORM
@@ -55,7 +54,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           tag_name: 'latest'
-          release_name: 'Latest LiaScript Documentation'
+          release_name: 'OER - Handreichung'
           draft: false
           prerelease: false
 
@@ -66,8 +65,8 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           upload_url: ${{ steps.create_release.outputs.upload_url }}
-          asset_path: Documentation.pdf
-          asset_name: Documentation.pdf
+          asset_path: Handreichung.pdf
+          asset_name: Handreichung.pdf
           asset_content_type: application/pdf
 
       # Step 9: Upload the generated SCORM package.
